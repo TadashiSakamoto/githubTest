@@ -1,2 +1,2 @@
 # githubTest
-github practice
+githubの使い方練習
